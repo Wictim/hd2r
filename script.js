@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     },
     {
-      "title": "Support equipment (heavy armor penetration)",
+      "title": "Support equipment stratagems (heavy armor penetration)",
       "rules": {
         "SHa": "All",
         "SH1": "No quasar",
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     },
     {
-      "title": "Support equipment (medium and light armor penetration)",
+      "title": "Support equipment stratagems (medium and light armor penetration)",
       "rules": {
         "SMa": "All",
         "SM1": "No autocannon",
@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     },
     {
-      "title": "Support equipment (backpack)",
+      "title": "Support equipment stratagems (backpack)",
       "rules": {
         "SBa": "All",
         "SB1": "No personal shield",
@@ -80,14 +80,14 @@ document.addEventListener('DOMContentLoaded', () => {
       "title": "Equipment - weapons (primary and secondary)",
       "rules": {
         "Qa": "All",
-		"Qr": "No Assault rifles",
-		"Qd": "No Marksman rifles",
-		"Qg": "No SMGs",
-		"Qs": "No shotguns",
+	"Qr": "No Assault rifles",
+	"Qd": "No Marksman rifles",
+	"Qg": "No SMGs",
+	"Qs": "No shotguns",
         "Qe": "No energy-based",
         "Qx": "No explosive",
-		"Qm": "No medium armor penetration",
-		"Qi": "No infinite ammo weapons"
+	"Qm": "No medium armor penetration",
+	"Qi": "No infinite ammo weapons"
       }
     },
     {
