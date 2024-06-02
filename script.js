@@ -28,7 +28,8 @@ document.addEventListener('DOMContentLoaded', () => {
       "rules": {
         "Ta": "All",
         "T1": "No mortar (EMS mortar allowed)",
-        "T2": "No autocannon and rocket",
+        "T2": "No autocannon",
+        "T3": "No rocket",
         "Tl": "No lethal",
         "Tn": "None"
       }
