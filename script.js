@@ -6,8 +6,9 @@ document.addEventListener('DOMContentLoaded', () => {
       "title": "Orbital stratagems",
       "rules": {
         "Oa": "All",
-        "O1": "No laser and railcannon",
-        "O2": "No barrage",
+        "O1": "No railcannon",
+        "O2": "No laser",
+        "O3": "No barrage",
         "Ol": "No lethal",
         "On": "None"
       }
