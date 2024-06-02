@@ -99,6 +99,18 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     },
     {
+      "title": "Equipment - armor",
+      "rules": {
+        "Aa": "All",
+        "Al": "No light armor",
+        "Am": "No medium",
+        "Ah": "No heavy armor",
+        "Aa": "No increased capacity",
+        "Aa": "No damage prevention (higher armor rating allowed)",
+        "Aa": "No detection reduction"
+      }
+    },
+    {
       "title": "Extra",
       "rules": {
         "NB": "No boosters",
