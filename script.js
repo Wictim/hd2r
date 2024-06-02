@@ -105,9 +105,9 @@ document.addEventListener('DOMContentLoaded', () => {
         "Al": "No light armor",
         "Am": "No medium",
         "Ah": "No heavy armor",
-        "Aa": "No increased capacity",
-        "Aa": "No damage prevention (higher armor rating allowed)",
-        "Aa": "No detection reduction"
+        "Ac": "No increased capacity",
+        "Ap": "No damage prevention (higher armor rating allowed)",
+        "Ad": "No detection reduction"
       }
     },
     {
