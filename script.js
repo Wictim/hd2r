@@ -58,8 +58,10 @@ document.addEventListener('DOMContentLoaded', () => {
       "rules": {
         "SMa": "All",
         "SM1": "No autocannon",
-        "SM2": "No grenade launcher, anti-material rifle",
-        "SM3": "No laser cannon, airburst RL",
+        "SM2": "No anti-material rifle",
+        "SM3": "No grenade launcher",
+        "SM4": "No laser cannon",
+        "SM5": "No airburst RL",
         "SMn": "None"
       }
     },
