@@ -28,10 +28,10 @@ document.addEventListener('DOMContentLoaded', () => {
       "rules": {
         "Da": "All",
         "D1": "No mortar (EMS mortar allowed)",
-        "D2": "No autocannon",
-        "D3": "No rocket",
-        "D4": "No tesla",
-	    "D5": "No mines",
+        "D2": "No autocannon sentry",
+        "D3": "No rocket sentry",
+        "D4": "No tesla tower",
+	"D5": "No mines",
         "Dl": "Non damaging",
         "Dn": "None"
       }
@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
       "title": "Support equipment stratagems (backpack)",
       "rules": {
         "SBa": "All",
-        "SB1": "No personal shield",
+        "SB1": "No personal shield generator",
         "SB2": "No guard dog",
         "SB3": "No jetpack",
         "SB4": "No supply pack",
@@ -83,14 +83,14 @@ document.addEventListener('DOMContentLoaded', () => {
       "title": "Equipment - weapons (primary and secondary)",
       "rules": {
         "Qa": "All",
-		"Qr": "No Assault rifles",
-		"Qd": "No Marksman rifles",
-		"Qg": "No SMGs",
-		"Qs": "No shotguns",
+	"Qr": "No Assault rifles",
+	"Qd": "No Marksman rifles",
+	"Qg": "No SMGs",
+	"Qs": "No shotguns",
         "Qe": "No energy-based",
         "Qx": "No explosive",
-		"Qm": "No medium armor penetration",
-		"Qi": "No infinite ammo weapons"
+	"Qm": "No medium armor penetration",
+	"Qi": "No infinite ammo weapons"
       }
     },
     {
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
       "rules": {
         "Ga": "All",
         "Gs": "No special grenades",
-		"Gi": "No impact grenades",
+	"Gi": "No impact grenades",
         "Gl": "No lethal"
       }
     },
@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Ah": "No heavy armor",
         "Ac": "No increased capacity",
         "Ap": "No damage prevention/reduction",
-		"Ar": "No higher armor rating or limg health",
+	"Ar": "No higher armor rating or limg health",
         "Ad": "No detection reduction"
       }
     },
